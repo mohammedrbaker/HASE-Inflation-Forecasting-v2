@@ -88,7 +88,16 @@ All results are saved to a `results/` folder created automatically.
 ```
 Baker, M.R., Buyrukoğlu, S., & Jihad, K.H. (2026).
 Explainable Horizon-Adaptive Stacked Learning for U.S. Inflation Forecasting with SHAP.
-https://doi.org/10.5281/zenodo.21542573
+https://doi.org/10.5281/zenodo.24025941
+        
+        
+https://doi.org/10.5281/zenodo.24025941
+        
+        
+        
+        
+        
+        
 ```
 
 ---
