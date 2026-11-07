@@ -1,0 +1,2 @@
+ElasticNet,RandomForest,XGBoost,LightGBM
+"{'alpha': 1.104488739029089, 'l1_ratio': 0.5328198727739045}","{'n_estimators': 221, 'max_depth': 16, 'min_samples_split': 5, 'min_samples_leaf': 3}","{'n_estimators': 194, 'max_depth': 10, 'learning_rate': 0.02772538659715259, 'subsample': 0.8790669122728375, 'colsample_bytree': 0.500544447609277}","{'n_estimators': 77, 'max_depth': 9, 'learning_rate': 0.024282048857470533, 'num_leaves': 50, 'subsample': 0.5304126354501955}"
